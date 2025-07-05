@@ -1,0 +1,15 @@
+{
+    "brzera": {
+        "Login": "hylander39",
+        "Password": "cafecompaodequeijoebom",
+        "SteamApiKey": "A8728141CAD760CC729792D1C073C3AD",
+        "SteamMasterClanID": 0,
+        "Enabled": true,
+        "AcceptGifts": true,
+        "CustomGameKeys": [],
+        "Headless": true,
+        "DisableTradeConfirmations": false,
+        "SteamLogin": "",
+        "SteamPassword": ""
+    }
+}

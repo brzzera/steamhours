@@ -1,0 +1,10 @@
+{
+    "GlobalConfig": {
+        "Headless": true,
+        "IPC": false,
+        "WebSocket": false,
+        "UpdateChannel": "Stable",
+        "CommandPrefix": "!",
+        "ConfirmationsTimeout": 60
+    }
+}
